@@ -16,7 +16,7 @@ Après avoir collecté des données de caractéristiques de plusieurs centaines 
 Lien du cours : [https://www.youtube.com/watch?v=7-WsA_arUpg](https://www.youtube.com/watch?v=7-WsA_arUpg)
 
 ## Conclusion
-Ce projet m'a permis de découvrir concrètement le Machine Learning dans un cas simple et de comprendre comment on peut l'appliquer dans un cas concret. Au cours de ce projet, j'ai appris à : 
+Ce projet m'a permis de découvrir concrètement le Machine Learning dans un cas simple et de comprendre comment on peut l'implémenter dans une application Python dans un cas concret. Au cours de ce projet, j'ai appris à : 
 - utiliser les librairies Pandas, Numpy, Plotly Express, SkLearn, et Joblib
 - manipuler des données
 - nettoyer les données
