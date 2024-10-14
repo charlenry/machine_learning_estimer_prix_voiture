@@ -1,4 +1,4 @@
-# Mes Notebooks sur Python pour la Data Science
+# Notebook d'un projet de Machine Learning pour estimer le prix d'une voiture d'occasion via une application
 
 ## Introduction
 Je m'appelle **Charles-Henri SAINT-MARS** et je suis actuellement en **recherche** d'une **entreprise d'accueil** afin d'effectuer une formation d'**Ingénieur en Machine Learning** en alternance et bien entendu de faire profiter de mes connaissances et compétences à cette entreprise d'accueil. Entre-temps, je suis des MOOCs afin de progresser dans ce domaine et d'être mieux préparé pour les missions qui me seront confiées.
@@ -16,7 +16,7 @@ Après avoir collecté des données de caractéristiques de plusieurs centaines 
 Lien du cours : [https://www.youtube.com/watch?v=7-WsA_arUpg](https://www.youtube.com/watch?v=7-WsA_arUpg)
 
 ## Conclusion
-Ce projet m'a permis de découvrir concrètement le Machine Learning et de comprendre comment on peut l'appliquer dans un cas concret. Au cours de ce projet, j'ai appris à : 
+Ce projet m'a permis de découvrir concrètement le Machine Learning dans un cas simple et de comprendre comment on peut l'appliquer dans un cas concret. Au cours de ce projet, j'ai appris à : 
 - utiliser les librairies Pandas, Numpy, Plotly Express, SkLearn, et Joblib
 - manipuler des données
 - nettoyer les données
