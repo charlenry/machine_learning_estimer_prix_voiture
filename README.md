@@ -21,7 +21,7 @@ Ce projet m'a permis de découvrir concrètement le Machine Learning dans un cas
 - manipuler des données
 - nettoyer les données
 - visualiser les données
-- créer et entraîner un modèle de régression linéraire avec une variable en entrée et une en sortie
+- créer et entraîner un modèle de régression linéaire avec une variable en entrée et une en sortie
 - évaluer la performance du modèle à l'aide du coefficient de détermination R²
 - utiliser le modèle pour faire des estimations
 - sauvegarder le modèle dans un fichier PKL pour pouvoir l'utiliser ultérieurement
