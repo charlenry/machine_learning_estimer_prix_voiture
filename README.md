@@ -15,14 +15,18 @@ Après avoir collecté des données de caractéristiques de plusieurs centaines 
 
 Lien du cours : [https://www.youtube.com/watch?v=7-WsA_arUpg](https://www.youtube.com/watch?v=7-WsA_arUpg)
 
+## Les notebooks du projet
+- [Notebook 1 : Modèle de régression linéaire crée avec SkLearn](https://github.com/charlenry/machine_learning_estimer_prix_voiture/blob/main/Estimer_prix_voiture_avec_sklearn.ipynb)
+- [Notebook 2 : Modèle de régression linéaire crée avec bibliothèque de fonctions personnalisées](https://github.com/charlenry/machine_learning_estimer_prix_voiture/blob/main/Estimer_prix_voiture_avec_moindres_carres.ipynb)
+
 ## Conclusion
 Ce projet m'a permis de découvrir concrètement le Machine Learning dans un cas simple et de comprendre comment on peut l'implémenter dans une application Python dans un cas concret. Au cours de ce projet, j'ai appris à : 
-- utiliser les librairies Pandas, Numpy, Plotly Express, SkLearn, et Joblib
+- utiliser les librairies Pandas, Numpy, Plotly Express, Matplotlib, SkLearn, et Joblib
 - manipuler des données
 - nettoyer les données
 - visualiser les données
 - créer et entraîner un modèle de régression linéaire avec une variable en entrée et une en sortie
-- évaluer la performance du modèle à l'aide du coefficient de détermination R²
+- évaluer la performance du modèle à l'aide du coefficient de détermination R² et du coefficient de corrélation
 - utiliser le modèle pour faire des estimations
 - sauvegarder le modèle dans un fichier PKL pour pouvoir l'utiliser ultérieurement
 - implémenter le modèle dans une application Python pour répondre au besoin métier (voir scénario du projet ci-dessus)
