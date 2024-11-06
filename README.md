@@ -17,7 +17,7 @@ Lien du cours : [https://www.youtube.com/watch?v=7-WsA_arUpg](https://www.youtub
 
 ## Les notebooks du projet
 - [Notebook 1 : Modèle de régression linéaire crée avec SkLearn](https://github.com/charlenry/machine_learning_estimer_prix_voiture/blob/main/Estimer_prix_voiture_avec_sklearn.ipynb)
-- [Notebook 2 : Modèle de régression linéaire crée avec bibliothèque de fonctions personnalisées](https://github.com/charlenry/machine_learning_estimer_prix_voiture/blob/main/Estimer_prix_voiture_avec_moindres_carres.ipynb)
+- [Notebook 2 : Modèle de régression linéaire crée avec une bibliothèque de classes et de méthodes personnalisées](https://github.com/charlenry/machine_learning_estimer_prix_voiture/blob/main/Estimer_prix_voiture_avec_moindres_carres.ipynb)
 
 ## Conclusion
 Ce projet m'a permis de découvrir concrètement le Machine Learning dans un cas simple et de comprendre comment on peut l'implémenter dans une application Python dans un cas concret. Au cours de ce projet, j'ai appris à : 
