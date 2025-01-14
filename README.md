@@ -32,5 +32,4 @@ Ce projet m'a permis de découvrir concrètement le Machine Learning dans un cas
 - implémenter le modèle dans une application Python pour répondre au besoin métier (voir scénario du projet ci-dessus)
 
 ## Contact
-Si vous êtes recruteur et que vous êtes intéressé par mon profil, vous pouvez m'appeler au 0652@74@87@30. <br>
-[Mon LinkedIn](https://www.linkedin.com/in/charles-henri-saint-mars)
+[LinkedIn de Charles-Henri SAINT-MARS](https://www.linkedin.com/in/charles-henri-saint-mars)
