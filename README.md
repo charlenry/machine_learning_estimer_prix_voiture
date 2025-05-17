@@ -1,10 +1,11 @@
-# Notebook d'un projet de Machine Learning pour estimer le prix d'une voiture d'occasion via une application
+# Notebook d'un projet de Machine Learning pour estimer le juste prix d'une voiture d'occasion via une application
 
 ## Introduction
-Je m'appelle **Charles-Henri SAINT-MARS** et je suis actuellement en **recherche** d'une **entreprise d'accueil** afin d'effectuer une formation d'**Ingénieur en Machine Learning** en alternance et bien entendu de faire profiter de mes connaissances et compétences à cette entreprise d'accueil. Entre-temps, je suis des MOOCs afin de progresser dans ce domaine et d'être mieux préparé pour les missions qui me seront confiées.
+Je m'appelle **Charles-Henri SAINT-MARS** et je m'intéresse à l'**IA**, à la **Data Science** et au **Machine Learning**. Les notebooks de ce dépôt sont mes notes de travaux pratiques sur la création d'un modèle de Machine Learning pour estimer le juste prix d'une voiture d'occasion en fonction de son poids à vide. J'ai utilisé une approche avec la bibliothèque **Sklearn** et une autre approche avec une bibliothèque de classes et de méthodes personnalisées en Python exploitant **la méthode des moindres carrés**. Par la suite, les modèles de chaque approche sont implémentés dans une application Python comme pour répondre à un besoin métier.
 
-## Projet de Machine Learning pour estimer le prix d'une voiture d'occasion via une application
-### Exercice réalisé à partir du cours de Machine Learning de José AFOUDA
+## Projet de Machine Learning pour estimer le juste prix d'une voiture d'occasion via une application
+### Travaux pratiques réalisés à partir du cours de Machine Learning de José AFOUDA
+Remarque : La méthode des moindres carrés, via des classes et méthodes personnalisées, pour créer le modèle de régression linéaire est une approche personnelle.
 
 ## Scénario du projet :
 Vous avez <u>une entreprise de développement d'applications mobiles</u>  et votre nouveau projet concerne la création d'une application qui met en relation des vendeurs de voitures d'occasion et des potentiels clients. Vous aimeriez ajouter une nouvelle fonctionnalité à cette application: celle de donner la possibilité aux utilisateurs de l'application de connaître le prix correct auquel ils peuvent acheter ou vendre une voiture d'occasion d'après les caractéristiques qu'ils souhaitent afin de ne pas se faire arnaquer par des vendeurs.
@@ -12,6 +13,8 @@ Vous avez <u>une entreprise de développement d'applications mobiles</u>  et vot
 Ensuite l'application devra avertir un potentiel acheteur si la voiture qui l'intéresse est au prix "juste" et aussi avertir un vendeur si le prix auquel il veut vendre sa voiture est approprié.
 
 Après avoir collecté des données de caractéristiques de plusieurs centaines de voitures d'occasion ainsi que leur prix de vente sur des plate-formes dédiées, vous décidez donc de construire un modèle de Machine Learning capable de prédire le prix d'une voiture en fonction de ses caractéristiques.
+
+Remarque : dans ce projet, on s'intéresse uniquement à la caractéristique (ou variable) "poids à vide" de la voiture pour estimer son prix. En effet, il existe d'autres caractéristiques qui influencent le prix d'une voiture d'occasion, mais pour ce projet, on se concentre sur une seule caractéristique pour simplifier le modèle.
 
 Lien du cours : [https://www.youtube.com/watch?v=7-WsA_arUpg](https://www.youtube.com/watch?v=7-WsA_arUpg)
 
