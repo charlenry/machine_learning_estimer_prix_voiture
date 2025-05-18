@@ -1,4 +1,4 @@
-# Notebook d'un projet de Machine Learning pour estimer le juste prix d'une voiture d'occasion via une application
+# Notebook d'un projet de Machine Learning pour estimer le prix optimal d'une voiture d'occasion via une application
 
 ## Introduction
 Je m'appelle **Charles-Henri SAINT-MARS** et je m'intéresse à l'**IA**, à la **Data Science** et au **Machine Learning**. Les notebooks de ce dépôt sont mes notes de travaux pratiques sur la création d'un modèle de Machine Learning pour estimer le prix optimal d'une voiture d'occasion en fonction de son poids à vide. J'ai utilisé une approche avec la bibliothèque **Sklearn** et une autre approche avec une bibliothèque de classes et de méthodes personnalisées en Python exploitant **la méthode des moindres carrés**. Par la suite, les modèles de chaque approche sont implémentés dans une application Python comme pour répondre à un besoin métier.
